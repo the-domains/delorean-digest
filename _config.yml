@@ -2,6 +2,7 @@ name: DeLorean Digest
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0
+title: DeLorean Digest
 cta:
   domain: null
   bucket: null
