@@ -1,0 +1,28 @@
+name: DeLorean Digest
+favicon: null
+layout_spectrum: 0.9532096185721457
+typography_spectrum: 0.2810987150296569
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.44857823965139687
+  lightness: 0.9365284671075642
+  saturation: 0.6409873717930168
+  rhythmicContrast: 0.05407265014946461
+purpose: []
