@@ -1,7 +1,7 @@
 name: DeLorean Digest
 favicon: null
-layout_spectrum: 0.9532096185721457
-typography_spectrum: 0.2810987150296569
+layout_spectrum: 1
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
